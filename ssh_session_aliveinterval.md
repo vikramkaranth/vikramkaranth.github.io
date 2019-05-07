@@ -1,4 +1,3 @@
-# Meus ab Iuppiter quaecumque frondes innuba tenentem
 
 ### How to prevent “Write Failed: broken pipe” on SSH connection?
 
