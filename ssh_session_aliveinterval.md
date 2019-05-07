@@ -1,3 +1,5 @@
+# Meus ab Iuppiter quaecumque frondes innuba tenentem
+
 ### How to prevent “Write Failed: broken pipe” on SSH connection?
 
 #### What options `ServerAliveInterval` and `ClientAliveInterval` in sshd_config exactly do?
